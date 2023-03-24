@@ -15,3 +15,4 @@ namespace SalesModel {
 		property String^ Agent;
     };
 }
+//Manuel Alejandro Pallete Figueroa
