@@ -1,6 +1,6 @@
 /*
-	La clase Company modela a un cliente del tipo persona jurídica.
-	Company hereda de Customer, eso significa que un cliente persona jurídica (empresa) es un tipo de cliente del sistema.
+	La clase Company modela a un cliente del tipo persona jurÃ­dica.
+	Company hereda de Customer, eso significa que un cliente persona jurÃ­dica (empresa) es un tipo de cliente del sistema.
 */
 #include "Customer.h"
 
@@ -15,4 +15,4 @@ namespace SalesModel {
 		property String^ Agent;
     };
 }
-//Manuel Alejandro Pallete Figueroa
+//Manuel Alejandro Pallete Figueroa (20191217)
