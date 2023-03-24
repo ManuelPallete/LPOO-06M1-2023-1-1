@@ -21,4 +21,5 @@ namespace SalesModel {
 		property char Gender;
 		property String^ Birthday;
     };
-}
+} GAAA
+c
